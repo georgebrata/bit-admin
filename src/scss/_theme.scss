@@ -1,0 +1,34 @@
+// color palette
+$primary: #027ee6;
+$secondary: #ff883f;
+$success: #027e09;
+$text-dark: black;
+$text-light: white;
+$background: white;
+$sidebar-background: #0d0b09; 
+
+$border-color: rgba(0,0,0,0.12156862745098039);
+
+// font
+$font-family: 'Montserrat', sans-serif;
+$font-size: 16px;
+$line-height: 1.5;
+$font-large: calc($font-size * 1.25);
+$font-medium: calc($font-size * 0.9);
+$font-small: calc($font-size * 0.75);
+
+$opacity-low: 0.7;
+$opacity-high: 1;
+
+// sizes
+$header-height: 60px;
+$sidebar-open-width: 200px;
+$sidebar-close-width: 90px;
+$app-padding: 2em;
+$gap: 1em;
+$animation-speed: 0.6s;
+
+// input, select, dropdown
+$input-radius: 5px;
+$input-height: 32px;
+$input-padding: 12px;
